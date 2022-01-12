@@ -1,9 +1,9 @@
 # Mrex2
-This is the app of Nutom which is an EdTEch Start Up 
+This is the Mrex2 App
 
 - Easy to Use
-- Firebase Linked Form
-- 2 Carousel
+- Fulfill Medical needs
+- More updates wil be pushed soon
 
 ## Main App
 
@@ -11,7 +11,3 @@ This is the app of Nutom which is an EdTEch Start Up
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: 
 ![](/Screenshots/Home.png)| ![](/Screenshots/OnBoarding.png)| 
 
-
-| |                  
-| |
-| | 
