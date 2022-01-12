@@ -7,7 +7,7 @@ This is the Mrex2 App
 
 ## Main App
 
-|                          Home Screen                        |                          Form Screen                          |  
+|                          OnBoarding Screen                        |                          Home Screen                          |  
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: 
-![](/Screenshots/Home.png)| ![](/Screenshots/OnBoarding.png)| 
+![](/Screenshots/OnBoarding.png)| ![](/Screenshots/Home.png)| 
 
